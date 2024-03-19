@@ -1,4 +1,4 @@
-import CustomButton from "./CustomButtom";
+import CustomButton from "./CustomButton";
 import { errorMessage } from "../../notification/messages";
 
 const LoadMoreBtn = ({ isVisible, onClick }) => {

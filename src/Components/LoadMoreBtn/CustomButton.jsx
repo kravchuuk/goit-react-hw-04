@@ -1,4 +1,4 @@
-import styles from "./CustomButtom.module.css";
+import styles from "./CustomButton.module.css";
 
 const CustomButton = ({ onClick, typeBtn, children }) => {
   return (
