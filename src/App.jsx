@@ -1,9 +1,9 @@
-import SearchBar from "./Components/SearchBar/SearchBar.jsx";
-import ImageGallery from "./Components/ImageGallery/ImageGallery.jsx";
-import ErrorMessage from "./Components/ErorMessage/ErorMessage.jsx";
-import Loader from "./Components/Loader/Loader.jsx";
-import LoadMoreBtn from "./Components/LoadMoreBtn/LoadMoreBtn.jsx";
-import ImageModal from "./Components/ImageModal/ImageModal";
+import SearchBar from "./components/SearchBar/SearchBar.jsx";
+import ImageGallery from "./components/ImageGallery/ImageGallery.jsx";
+import ErrorMessage from "./components/ErorMessage/ErorMessage.jsx";
+import Loader from "./components/Loader/Loader.jsx";
+import LoadMoreBtn from "./components/LoadMoreBtn/LoadMoreBtn.jsx";
+import ImageModal from "./components/ImageModal/ImageModal";
 import { useState, useEffect } from "react";
 import Modal from "react-modal";
 import clsx from "clsx";
