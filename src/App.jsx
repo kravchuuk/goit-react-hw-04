@@ -3,7 +3,7 @@ import ImageGallery from "./components/ImageGallery/ImageGallery.jsx";
 import ErrorMessage from "./components/ErorMessage/ErorMessage.jsx";
 import Loader from "./components/Loader/Loader.jsx";
 import LoadMoreBtn from "./components/LoadMoreBtn/LoadMoreBtn.jsx";
-import ImageModal from "./components/ImageModal/ImageModal";
+import ImageModal from "./components/ImageModal/ImageModal.jsx";
 import { useState, useEffect } from "react";
 import Modal from "react-modal";
 import clsx from "clsx";
